@@ -10,7 +10,7 @@ patients affecting satisfaction across age groups and gender
 Data Cleaning & Preprocessing (Python / Pandas)
 - Standardized Date/Time columns
 - Removed unwanted columns (Merged)
-- Corrected inconsistent values (Female® → Female)
+- Corrected inconsistent values (Female → Female)
 - Added Age Group column
 - Filled missing values:
 - Department Referral → No referral
@@ -19,7 +19,7 @@ Data Cleaning & Preprocessing (Python / Pandas)
 
  Data Analysis (MySQL)
 Key Insights
-- Average Wait Time: ~35 minutes across all age groups
+- Average Wait Time: 35 minutes across all age groups
 - Peak Admission Dates: Highest on Dec 4, 2023 (30 admissions)
 - Satisfaction by Gender: Female → 4.99, Male → 5.01
 - Longest Wait Times: Neurology (36.8 mins), Physiotherapy (36.6 mins)
