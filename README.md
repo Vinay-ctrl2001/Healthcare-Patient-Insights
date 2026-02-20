@@ -45,14 +45,14 @@ The interactive dashboard highlights:
 
  Recommendations 
 • Prioritize orthopedics and general Neurology, Physiotherapy 
-practice with additional staff to handle patient volume and reduce 
-wait time. 
+  practice with additional staff to handle patient volume and reduce 
+  wait time. 
 • Optimize gender-specific services for females: Leverage 47 %   
-Of female dominance with women-focused scheduling or 
-amenities. 
+  Of female dominance with women-focused scheduling or 
+  amenities. 
 • Improve satisfaction for young and seniors: Target the 
-smallest age group for faster consultations, as younger and senior 
-patient satisfaction rate lower. 
+  smallest age group for faster consultations, as younger and senior 
+  patient satisfaction rate lower. 
 • Operational Enhancements 
-Introduce mobile apps for real time updates and AI in various areas 
-to optimize patient flow and reduce wait time.
+  Introduce mobile apps for real time updates and AI in various areas 
+  to optimize patient flow and reduce wait time.
