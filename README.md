@@ -30,6 +30,7 @@ Key Insights
 - Largest Patient Volume: No referral (5,400), followed by General Practice (1,840)
 
  Data Visualization (Power BI)
+ ![image alt](https://github.com/Vinay-ctrl2001/Healthcare-Patient-Insights/blob/main/Healthcare%20Patient%20Insights%20Dashboard.png?raw=true)
 Healthcare Patient Insights Dashboard
 The interactive dashboard highlights:
 - Top Metrics:
