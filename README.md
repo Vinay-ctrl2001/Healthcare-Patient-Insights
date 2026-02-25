@@ -10,7 +10,7 @@ patients affecting satisfaction across age groups and gender
 Data Cleaning & Preprocessing (Python / Pandas)
 - Standardized Date/Time columns
 - Removed unwanted columns (Merged)
-- Corrected inconsistent values (Female → Female)
+- Corrected inconsistent values 
 - Added Age Group column
 - Filled missing values:
 - Department Referral → No referral
